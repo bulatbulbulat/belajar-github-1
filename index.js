@@ -1,0 +1,1 @@
+log.console("perubahan dari user lain")
